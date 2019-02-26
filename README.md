@@ -43,6 +43,11 @@
 * Краткий обзор стандартной библиотеки
 * Установка стороннего модуля
 
+Название      | Содержимое   
+--------------|-------------------------
+[iter_name.py] | Задача: Самая длинная фамилия в файле
+[traffic_lights.py] | Задача: Светофор
+
 
 День №3
 ----------------------------------
@@ -85,3 +90,7 @@
 [percent.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_1/percent.py
 [sorting_hat.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_1/sorting_hat.py
 [tell_me_your_age.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_1/tell_me_your_age.py
+
+[iter_name.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_2/iter_name.py
+[traffic_lights.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_2/traffic_lights.py
+
