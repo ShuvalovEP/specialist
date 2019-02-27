@@ -53,6 +53,11 @@
 ----------------------------------
 ### Модуль 5. Практическая работа
 
+Название      | Содержимое   
+--------------|-------------------------
+[mknewdir.py] | Задача: Создать файл если его нет, если есть - удалить
+[size_path.py] | Задача: Расчитать размер каталога
+[translator.py] | Задача: Программа переводчик
 
 
 День №4
@@ -94,3 +99,6 @@
 [iter_name.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_2/iter_name.py
 [traffic_lights.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_2/traffic_lights.py
 
+[mknewdir.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_3/mknewdir.py
+[size_path.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_3/size_path.py
+[translator.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_3/translator.py
