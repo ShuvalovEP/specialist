@@ -73,6 +73,13 @@
 * Перехват исключения
 * Стандартные исключения
 
+Название      | Содержимое   
+--------------|-------------------------
+[try_except.py] | Задача: Написать функцию с исключениями try except 
+[test_def.py] | Задача: Изучение библиотеки PyTest
+[qa_pythest.py] | Задача: Изучение библиотеки PyTest 
+
+
 
 День №5
 ----------------------------------
@@ -102,3 +109,7 @@
 [mknewdir.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_3/mknewdir.py
 [size_path.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_3/size_path.py
 [translator.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_3/translator.py
+
+[try_except.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_4/try_except.py
+[test_def.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_4/test_def.py
+[qa_pythest.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_4/qa_pythest.py
