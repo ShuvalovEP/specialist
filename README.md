@@ -93,6 +93,10 @@
 * Операция замыкания (closure) и операция каррирования (currying)
 * Понятие о декораторе
 
+Название      | Содержимое   
+--------------|-------------------------
+[tea.py] | Задача: Изучить биюлиотеку csv
+[deco.py] | Задача: Изучть декораторы
 
 
 
@@ -113,3 +117,6 @@
 [try_except.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_4/try_except.py
 [test_def.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_4/test_def.py
 [qa_pythest.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_4/qa_pythest.py
+
+[tea.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_5/test_def.py
+[deco.py]:https://github.com/ShuvalovEP/Specialist/blob/master/python_1/day_5/qa_pythest.py
